@@ -7,3 +7,5 @@
 03 - Shell Scripting: Functions & intermediate Concepts
 
 Shell Scripting Project: Log Rotation, Backup & Crontab
+
+Bash Scripting Challenge: Log Analyzer and Report Generator
